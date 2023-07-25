@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class AgeCategorizer {
+public static void main(String[] args) {
+	Scanner scan=new Scanner(System.in);
+	System.out.println("enterd the Age to check Child,Teen,Adult,or Senior");
+	int age=scan.nextInt();
+	categorizeAge(age);
+}
+public static void categorizeAge(int age)
+{
+	if(age<0 && age<=12)
+	{
+		System.out.println("CHILD");
+		
+	}
+	else if(age>13 && age<=19)
+	{
+		System.out.println("TEEN");
+		
+	}
+	else if(age>19 && age<=59)
+	{
+		System.out.println("ADULT");
+	}
+	else
+	{
+		System.out.println("SENIOR");
+			
+		}
+	}
+}
+
