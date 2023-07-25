@@ -1,0 +1,4 @@
+1661838577283	Convert local variable 'car' to field
+1661838628737	Extract local variable 'object'
+1661838662190	Convert local variable 'object' to field
+1661839171712	Delete element
