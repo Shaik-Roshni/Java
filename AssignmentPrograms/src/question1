@@ -1,0 +1,276 @@
+write a java program to create a pyramid on the monitor Screen.
+    *
+   ***
+  *****
+ *******
+*********
+
+ Reverse pyramid star pattern in Java
+*********
+ *******
+  *****
+   ***
+    *
+    
+    
+    
+    Diamond star pattern in Java
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+    
+    
+    Heart pattern
+ 
+ ***   ***
+***** *****
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+     
+     
+  Hallow number Right Anlge 
+      1
+      1 2
+      1   2
+      1     2
+      123456789
+      
+      
+   Hollow number diamond pattern
+    1
+   1 2
+  1   2
+ 1     2
+1       2
+ 1     2
+  1   2
+   1 2
+    1
+    
+    
+    Reverse Hollow Pyramid Alphabet Pattern
+ ABCDEFGHI
+ A     G
+  A   E
+   A C
+    A
+    
+    
+    
+    Diamond Alphabet Pattern
+    A
+   ABC
+  ABCDE
+ ABCDEFG
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
+    
+    
+    
+    
+    Hourglass Alphabet Pattern
+   ABCDEFGHI
+    ABCDEFG
+     ABCDE
+      ABC
+       A
+      ABC
+     ABCDE
+    ABCDEFG
+   ABCDEFGHI
+
+
+
+Alphabet X Pattern In Java
+A   E
+ B D 
+  C  
+ B D 
+A   E
+Pascal’s Triangle Program in Java
+ 
+
+             1
+           1   1
+         1   2   1
+       1   3   3   1
+     1   4   6   4   1
+     
+     
+     
+     Pattern 12
+    **********
+    ****  ****
+    ***    ***
+    **      **
+    *        *
+    *        *
+    **      **
+    ***    ***
+    ****  ****
+    **********
+
+
+
+Program to print Triangle pattern using Star(*) and Hyphen(-) in Java
+      *
+     *-*
+    *---*
+   *-----*
+  *-------*
+ *---------*
+ 
+ 
+ 
+ Pattern14
+ 1
+*2*
+**3**
+***4***
+****5****
+*****6*****
+******7******
+
+
+
+
+  Pattern15
+ 1
+1*2
+1*2*3
+1*2*3*4
+1*2*3*4*5
+1*2*3*4*5*6
+1*2*3*4*5*6*7
+1*2*3*4*5*6*7*8
+1*2*3*4*5*6*7*8*9
+
+
+   Pattern16
+       1AAAAA
+       12BBBB
+       123CCC
+       1234DD
+       12345E
+       123456
+
+
+    Pattern17
+          ABCDE
+          FGHI
+          JKL
+          MN
+          O
+          
+          
+    Pattern18
+     ABCDE EDCBA
+     ABCD   DCBA
+     ABC     CBA
+     AB       BA
+     A         A
+     
+     
+     
+     Pattern19
+    Enter the String which needs to be printed 
+   java
+   ** Printing the pattern... **
+   j
+  aaa
+ vvvvv
+aaaaaaa
+
+
+   Pattern20
+    1 2 3 
+    4 5 
+    6 
+    7 8 
+    9 10 11 
+    
+    
+    
+        Pattern21
+        6 6 6 6 6 6 6 6 6 6 6 
+        6 5 5 5 5 5 5 5 5 5 6 
+        6 5 4 4 4 4 4 4 4 5 6 
+        6 5 4 3 3 3 3 3 4 5 6 
+        6 5 4 3 2 2 2 3 4 5 6 
+        6 5 4 3 2 1 2 3 4 5 6 
+        6 5 4 3 2 2 2 3 4 5 6 
+        6 5 4 3 3 3 3 3 4 5 6 
+        6 5 4 4 4 4 4 4 4 5 6 
+        6 5 5 5 5 5 5 5 5 5 6 
+        6 6 6 6 6 6 6 6 6 6 6 
+        
+        
+        Pattern22
+        Enter the number of rows to print the pattern 
+4
+** Printing the pattern... **
+1234
+ 234
+  34
+   4
+   4
+  34
+ 234
+1234
+
+
+
+      Pattern23
+      Enter the number of rows to print the pattern 
+5
+** Printing the pattern... **
+1 
+2 1 2 
+3 2 1 2 3 
+4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5 
+4 3 2 1 2 3 4 
+3 2 1 2 3 
+2 1 2 
+1 
+      
+      
+      
+      
+      Pattern24
+ I 
+I Like 
+I Like Very 
+I Like Very Much 
+I Like Very Much Java 
+
+
+
+
+        Pattern25
+        Enter the number of rows to print the pattern 
+6
+@1 
+@3 3 
+@5 5 5 
+@7 7 7 7 
+@9 9 9 9 9 
+@11 11 11 11 11 11 
+
+      
+        
+  
+     
